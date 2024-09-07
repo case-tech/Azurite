@@ -1,5 +1,5 @@
 # Azurite
-Azurite - C++ библиотека, которая позволяет рендерит HTML, CSS страницы.
+Azurite - C++ библиотека, которая позволяет рендерить HTML, CSS страницы.
 
 # Документация
   [Case Technologies](https://case-technologies.ru/AZ_doc.html)
